@@ -222,3 +222,7 @@ test(shortest_path)
 
 It is done using a priority queue using a min heap in order to quickly retrieve the min path element
 in O(1). Insert and Removal into the priority queue take O(logn) due to the heapify process
+
+## References 
+
+https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256
